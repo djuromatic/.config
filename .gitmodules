@@ -3,4 +3,4 @@
 	url = git@github.com:djuromatic/nvim.git
 [submodule "tmux"]
 	path = tmux
-	url = git@github.com:djuromatic/tmux-config.git
+	url = git@github.com:djuromatic/tmux.git
