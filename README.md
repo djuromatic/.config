@@ -1,12 +1,9 @@
-this is a test of a markdown preview and it looks like it is working great so far
+## nvim
 
-- bullet
-  > - this thing
+:PackerInstall
 
-```bash
-export something = "string"
-```
+## tmux
 
-```js
-const something = "string";
-```
+## Font
+
+https://www.nerdfonts.com/font-downloads
