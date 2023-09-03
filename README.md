@@ -1,13 +1,13 @@
 ## Init
 
 this configuration requires some submodules to be clone
-to do that run init.sh
+to do that run `init.sh`
 
 ## Prerequisits
 
-using some rich color terminal like ITerm2
-Nerd Font installed
-Installed nvim and tmux
+- Rich color terminal like ITerm2
+- Nerd Font installed for terminal
+- Installed nvim and tmux
 
 ## Install
 
